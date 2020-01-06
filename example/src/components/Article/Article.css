@@ -1,0 +1,18 @@
+li{
+    list-style: none;
+  }
+  
+  .card-body .btn{
+    display: block;
+    margin: 0 auto;
+    text-transform: uppercase;
+  }
+  
+  .date{
+    margin: 15px auto;
+    color: grey;
+  }
+  .looked{
+    color: blue;
+    text-align: center;
+  }
